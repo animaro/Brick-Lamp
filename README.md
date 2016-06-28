@@ -1,4 +1,4 @@
-![trispace lamp](assets/trispace_lamp.jpg)
+![trispace lamp](files/IMG_5561.JPG)
 
 # trispace v.0.1
 
