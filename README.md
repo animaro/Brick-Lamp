@@ -1,4 +1,4 @@
-![trispace lamp](files/IMG_5561.JPG)
+![workshop](IMG_5561.JPG)
 
 # trispace v.0.1
 
